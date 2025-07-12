@@ -1,14 +1,7 @@
-## Moin
+## Hey
 
-Willkommen bei der SEB-RP Organisation.
+Welcome to the SEBRP Orga
 
-Wir freuen uns über jeden Commit zu einem unserer öffentlichen Repositorys :)
+We are happy about every commit to one of our public repositories :)
 
-Unser Forum:
-
-https://seb-roleplay.de/
-
-Unser Discord Server:
-
-https://discord.gg/seb-roleplay
-
+Stay tuned ...
